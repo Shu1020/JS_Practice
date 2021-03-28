@@ -1,0 +1,97 @@
+* {
+    /* outline: 1px dotted red; */
+    margin:0px;
+    padding:0px;
+}
+#wrapper {
+    width: 970px;
+    margin:auto;
+    background-color:#f3f3f3;
+}
+h1, h2 {
+    display:inline-block;
+    margin:10px;
+}
+h1{
+    margin-right:420px;
+}
+#main{
+    background-image:linear-gradient(#332228,#6f5a63);
+    padding: 15px;
+}
+/* About section below here*/
+
+#me{
+    width:300px;
+    margin: 0px 15px 20px 5px;
+    outline: solid white;
+}
+#about{
+    display: inline-block;
+    width:610px;
+    background-color: #e7dce5;
+    vertical-align: top;
+    padding-bottom:10px;
+}
+#about p{
+    margin: 10px;
+}
+.sub-heading{
+    background-color: #91909b;
+    padding: 5px;
+    color:white;
+}
+a {
+    margin-left:10px;
+}
+/* Sub section */
+.subs{
+    width:300px;
+    background-image: linear-gradient(#f7f7f7, #dfd0de, #583b5f);
+
+    display: inline-block;
+    margin:5px;
+}
+.la-img{
+    width:300px;
+}
+.tech-img{
+    width:40px;
+    margin:5px;
+    padding:1px;
+}
+.subs p{
+    margin:10px;
+}
+.subs button{
+    margin:0px 0px 20px 90px;
+    padding:10px;
+    background: rgb(74, 124, 74);
+    border-radius: 10px;
+    border-width: 5px;
+    color: white;
+}
+/* footer below this line */
+.footer{
+    background-color:#f3f3f3;
+    padding:1px;
+}
+.footer p{
+    text-align:center;
+    margin:10px;
+}
+.footer ul li{
+    display: inline-block;
+}
+.sub-footer img{
+    width: 25px;
+}
+.footer ul{
+    margin-left:300px;
+}
+.sub-footer a{
+    text-align:left;
+    padding:3px;
+    margin-left:-5px;
+    vertical-align:top;
+}

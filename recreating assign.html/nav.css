@@ -1,0 +1,27 @@
+* {
+    color:white;
+
+}
+#nav {
+    background-color: rgb(76, 159, 214);
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: 'Montserrat', sans-serif;
+    padding: 10px;
+}
+a {
+    text-decoration: none;
+}
+img {
+    width: 100px;
+    align-self: center;
+}
+ul {
+    list-style: none;
+    display:flex;
+    justify-content: space-evenly;
+    width:70%;
+    padding: 20px;
+    /* align-items:baseline; */
+}

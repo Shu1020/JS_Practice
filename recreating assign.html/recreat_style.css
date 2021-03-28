@@ -1,0 +1,16 @@
+.center-box{
+background-color: rgb(13, 13, 92);
+width: 1200px;
+height: 400px;
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+.center-item{
+    background-color: blanchedalmond;
+    height: 100px;
+    width:100px;
+    /* margin: 20px; */
+    padding:20px;
+}
